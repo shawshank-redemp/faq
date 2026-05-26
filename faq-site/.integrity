@@ -1,0 +1,6 @@
+# Integrity checksums for reproducible builds
+# Generated: 2026-05-23
+# Verify with: sha256sum -c .integrity
+
+f29ec52b8323a92c66c5cac4d1de9bc52de1afbde8cb7b56ef35cf9a129448ff  faqs-complete.json
+28a220ce27fd0069ec326b6f43560d558b38885af44ff9ceaba6c8396efa6b8f  metadata.json

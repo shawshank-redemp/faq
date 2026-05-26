@@ -1,0 +1,1136 @@
+[
+  {
+    "faqId": "1.1",
+    "categoryId": 1,
+    "categoryName": "About the internship",
+    "question": "What is the Vicharanashala internship?",
+    "answer": "A two-month internship run by Vicharanashala, a research lab at IIT Ropar. You will work on a real open-source project under a mentor, after a short training phase tailored to where you already are. The internship is free — we do not charge, and the work is real.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "1.2",
+    "categoryId": 1,
+    "categoryName": "About the internship",
+    "question": "What is VINS?",
+    "answer": "VINS is the Vicharanashala Internship — an online programme open to anyone who clears our interview. The work is real open-source contribution under a mentor, the certificate is from the Vicharanashala Lab for Education Design at IIT Ropar, and the programme itself is free (we charge nothing). There is no stipend.\nIf you are seeing a yellow VINS panel on your result page, you are selected.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "1.3",
+    "categoryId": 1,
+    "categoryName": "About the internship",
+    "question": "What are the phases of VINS, and what do the badges mean?",
+    "answer": "VINS is structured as four phases. Each one is marked by a badge — a small token of where you are in the journey.\n🥉 Bronze (Phase 1) — a short training period at the start, planned\naround what you already know. If you arrive already comfortable with the basics, your mentor may skip Bronze and put you straight on to the project.\n🥈 Silver (Phase 2) — the main work. You contribute to a real\nopen-source project under a Vicharanashala mentor. Finishing Bronze and Silver completes your internship and earns the certificate.\n🥇 Gold (Phase 3) — a recognition awarded during Silver if your\ncontribution stands on its own as a meaningful feature, not just a small fix.\n🏆 Platinum (Phase 4) — a standing invitation to come back and visit\nthe lab — a short trip — any time during the year after your internship ends. We help with travel through a small visit stipend.\nMost interns finish at Bronze + Silver, and that is exactly what the certificate is for. Gold and Platinum are extras you can pick up if your work makes the case for them. Either way, you walk away with a real open-source contribution to your name and a mentor who knows you well.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "1.4",
+    "categoryId": 1,
+    "categoryName": "About the internship",
+    "question": "Who is the internship for? Are alumni eligible?",
+    "answer": "The internship is for currently-enrolled students at any college or university — undergraduate, postgraduate, or doctoral. The NOC requirement is the practical reflection of this: we ask for institutional consent that you can commit your time to this internship.\nCandidates who have already graduated and are not currently enrolled in any programme are not eligible for this cycle. If you re-enrol later (higher studies, etc.), you are very welcome to apply again in a future cycle.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "1.5",
+    "categoryId": 1,
+    "categoryName": "About the internship",
+    "question": "Is this the same as IIT Ropar's official Summer Research Internship?",
+    "answer": "No. Summership 2026 is a VLED Lab initiative. The certificate is issued by the Vicharanashala Lab for Education Design, not centrally by the institute. IIT Ropar runs a separate institutional summer research internship through its own office. Do not represent Summership 2026 as equivalent to that programme.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "1.6",
+    "categoryId": 1,
+    "categoryName": "About the internship",
+    "question": "I have to attend my class tomorrow/today/some day can I take leave",
+    "answer": "Leave is not permitted. If you are also attending classes or exams, you will be relieved from the internship immediately and will need to join the next batch when it starts.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "2.1",
+    "categoryId": 2,
+    "categoryName": "Timing and dates",
+    "question": "When can I start?",
+    "answer": "You can start any time in 2026 — VINS is flexible on the start date — but there are two things you must hold in mind together, and one strong recommendation.\nThe hard rule. Your internship must finish by 31 December 2026. That date is non-negotiable. Whatever start you pick, your end date (your start + 2 months, with up to 1 month grace) must land on or before 31 December 2026. So while there is no last date to opt in, there is absolutely a last date to finish.\nThe strong recommendation: start as soon as possible. The earlier you join, the more of the May–July main cohort you catch — and three things make starting earlier materially better than starting later:\nCohort networking. The batch goes through Bronze together —\npeer discussions, parallel problem-solving, and lasting connections happen during this window. Later in the year the cohort disperses and late starters are largely solo.\nTA support is concentrated in May–July. TAs are full-time\nduring this window. After this they return to their own college work and bandwidth is materially thinner.\nTraining rolls out with the cohort, not piecemeal — you get\nthe material with the discussion around it, not as a static document.\nIf starting now is genuinely impossible for you (exams, other unavoidable commitments), you can begin later and still complete and earn the certificate — but be honest with yourself: the cohort effect and support will be lighter, and the December cap means a late start leaves no room for slippage.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "2.2",
+    "categoryId": 2,
+    "categoryName": "Timing and dates",
+    "question": "How long is the internship?",
+    "answer": "Two months from your chosen start date, with an optional one-month grace period if you need it. End must land on or before 31 December 2026.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "2.3",
+    "categoryId": 2,
+    "categoryName": "Timing and dates",
+    "question": "Can I start in July, August or later if I have exams now?",
+    "answer": "Yes — but only if your exams genuinely make an earlier start impossible. Wait until your exams are done, then opt in and start. Do not attempt to juggle this internship with ongoing exams. Make sure your chosen start date plus 2 months (or 3 with grace) lands on or before 31 December 2026.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "2.4",
+    "categoryId": 2,
+    "categoryName": "Timing and dates",
+    "question": "Can I start with the cohort and take a relaxation during my exam window?",
+    "answer": "No. This is not an arrangement we offer.\nVINS is a full-attention internship — six to ten hours a day, sometimes more. Splitting that with college exams damages both sides: the project loses momentum, the exams suffer, and the mentor invests in someone who can only half-engage. We have seen this fail enough times to be firm.\nIf your exams fall inside the cohort duration, defer your start to after your exams end, opt in then, and run the internship at full attention. The certificate and project pathway are the same.\nA note on consequences. If we later learn that a candidate was sitting college exams during their internship period, we reserve the right to terminate the internship or withhold the certificate at any time — including after the internship has otherwise been completed.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "2.5",
+    "categoryId": 2,
+    "categoryName": "Timing and dates",
+    "question": "Can I take leave or get an exemption during the internship for an exam scheduled in June?",
+    "answer": "The attendance rule is firm — the 55-day continuous window is a non-negotiable part of the internship, and we cannot offer an exemption for an exam during this period. The policy exists because split attention genuinely damages both your exam preparation and your internship work.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "2.6",
+    "categoryId": 2,
+    "categoryName": "Timing and dates",
+    "question": "Are orientation session recordings shared with interns, and can project or group assignments be changed after watching them?",
+    "answer": "Recordings of the sessions will not be provided. However, we may provide access to an abridged version of a talk or session if we consider it important. We do not guarantee this for every session.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "3.1",
+    "categoryId": 3,
+    "categoryName": "NOC (No Objection Certificate)",
+    "question": "What dates do I put on the NOC?",
+    "answer": "Default: your chosen start date → your start + 2 months\n(with up to 1 month grace), ensuring the end date is on or before 31 December 2026. Pick the earliest start date you can realistically make — the May–July summer window is the main cohort.\nIf the NOC will be signed on a specific later date, pick a start\ndate after the signature date.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "3.2",
+    "categoryId": 3,
+    "categoryName": "NOC (No Objection Certificate)",
+    "question": "Who can sign the NOC?",
+    "answer": "Any authorised signatory at your college: HOD, Acting HOD (during holidays), Principal, Dean, Director, or Training & Placement Officer. For dual-degree students, either institution can sign — pick whichever is easier. For IITM BS Online Degree (standalone) students, any officer from the BS office can sign.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "3.3",
+    "categoryId": 3,
+    "categoryName": "NOC (No Objection Certificate)",
+    "question": "When do I submit the NOC? Is the deadline hard?",
+    "answer": "The deadline is not hard — there is no specific cut-off date by which the NOC must be uploaded. But for the internship to actually begin properly, you should submit it as early as possible and join the current summer cohort.\nIf you are on VINS you can technically upload your NOC and start later in the year, but we strongly do not recommend it — by then your mentor may already be busy with other work, you will not get to network properly with the rest of the cohort, and the cohort + TA support that make this internship genuinely good are concentrated during the summer window. Submit early, start as soon as possible, and you will get the full version of the experience.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "3.4",
+    "categoryId": 3,
+    "categoryName": "NOC (No Objection Certificate)",
+    "question": "What format should I use? Do I need to design it myself?",
+    "answer": "No — we provide a printable NOC format. Once your result is out and you log in to samagama.in, you will see a Download blank NOC button on your dashboard. Take a printout, get it physically signed and stamped by your authorised signatory, scan it, and upload the signed PDF using the Upload signed NOC button (also on the dashboard). You do not need to draft anything yourself, and you do not need college letterhead — the format we provide is the canonical layout.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "3.5",
+    "categoryId": 3,
+    "categoryName": "NOC (No Objection Certificate)",
+    "question": "What if my college / Program Chair gives me an NOC in their own format?",
+    "answer": "A college's own NOC format is acceptable, as long as all four of the required entries are present on it:\nthe signing authority's (HOD / Dean / Program Chair / Principal)\nhandwritten signature — this is the most important item,\nthe signing authority's official email address (we cross-check\nwith that person to verify the signature is genuine),\nyour full name, and\nyour signature.\nIf your college's format does not include a place for your signature, sign clearly and prominently anywhere on the document before uploading. With those four items present, you do not need to switch to our printable format.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "3.6",
+    "categoryId": 3,
+    "categoryName": "NOC (No Objection Certificate)",
+    "question": "Does it need to be signed by hand?",
+    "answer": "Yes. Three things are required, all on the NOC format we provide:\nthe authorised signatory's handwritten signature,\nthe institutional rubber stamp / seal applied in the designated area, and\nthe signatory's email address filled in the designated field — we\nautomatically cross-check with that person to verify the signature is genuine.\nDigital signatures are not accepted on the PDF path. If a physically- signed printout is impractical for your HOD, use the email-forward path in 5.7 below — it is fully equivalent.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "3.7",
+    "categoryId": 3,
+    "categoryName": "NOC (No Objection Certificate)",
+    "question": "Can my HOD email the NOC instead of signing a printout?",
+    "answer": "Yes — there is a fully-equivalent email-forward path. Use whichever is easier; you do not need to do both.\nHow it works:\nFrom your dashboard, download the text NOC (the \"⬇ Download text\nNOC (email path)\" button next to the printable PDF download).\nFill in the student-side fields, then email the file to your HOD and\nask them to forward it.\n**Your HOD forwards the email to sudarshan@iitrpr.ac.in from their\nofficial institutional email address**, with the subject line: NOC for my student &lt;Your Full Name&gt;\nThe forward itself counts as the signature — the HOD's official institutional email address is the verification, exactly like the signatory-email field on the PDF NOC.\nTwo non-negotiable conditions:\nThe forward must come from the HOD's **official institutional email\naddress** (a college / university domain) — not a personal Gmail or Outlook account.\nThe subject line must start with NOC for my student so it routes\ncorrectly. A different subject may be missed.\nAfter the forward arrives, confirmation and offer-letter issuance follow the normal timeline (about 24 to 48 hours). Candidates who use this path do not also need to upload a signed PDF.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "3.8",
+    "categoryId": 3,
+    "categoryName": "NOC (No Objection Certificate)",
+    "question": "How do I download and upload the NOC?",
+    "answer": "Both happen on your dashboard at samagama.in once your result is out. You will see a NOC section with two buttons in three places (all backed by the same endpoints — use whichever is convenient):\nA compact pill in the dark header bar at the top of every screen.\nA standalone NOC card on the dashboard, between the Results card and\nthe Talk-to-Yaksha button.\nA NOC section at the bottom of your full Result message itself.\nThe two buttons:\nDownload blank NOC — saves the printable NOC format PDF.\nUpload signed NOC (PDF) — opens a file picker; the file must be a\nPDF of at most 1 MB. Confirmation appears on the same card once the upload is received.\nThe chat surface no longer carries any NOC affordance — please use the dashboard buttons. If you can't see the buttons, make sure you are logged in as the email that received the result, and that your result has been released.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "3.9",
+    "categoryId": 3,
+    "categoryName": "NOC (No Objection Certificate)",
+    "question": "What if my NOC is not formally verified?",
+    "answer": "NOC verification takes time — typically anywhere between an hour and one full working day from the moment you upload.\nIf you are planning to start in the coming days and need your offer letter sooner, there is a tentative route: upload a self-declaration on your profile and a tentative offer letter will be issued to you immediately. The formal offer letter follows once your NOC clears verification.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "3.10",
+    "categoryId": 3,
+    "categoryName": "NOC (No Objection Certificate)",
+    "question": "My online course (Masai, NPTEL, Coursera, etc.) won't issue an NOC. What do I do?",
+    "answer": "The internship is open only to candidates currently enrolled in a full-time degree programme at a recognised college or university. Online-only courses — Masai Institute, NPTEL / MOOC enrolments, Coursera, Udacity, bootcamps, and similar — do not by themselves make a candidate eligible.\nIf you are concurrently enrolled in a full-time degree programme alongside the online course, please obtain a No Due / No Objection certificate from that college (department, Dean's office, or Principal) and upload it via the NOC upload flow on your dashboard.\nIf your only current academic engagement is the online course and you are not concurrently enrolled in a full-time degree programme, the internship is not open to you in this cycle. We would warmly welcome you to apply again in a future cycle once you are enrolled in a full-time programme.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "3.11",
+    "categoryId": 3,
+    "categoryName": "NOC (No Objection Certificate)",
+    "question": "My HOD/college official wants written confirmation before signing my NOC. What do I show them?",
+    "answer": "Your selection is already confirmed the moment your yellow VINS (or green VISE) result panel appears on your samagama.in dashboard — that is the official confirmation of selection. There is no separate written letter issued before the NOC step by default.\nIf your HOD/college official insists on a document in hand before signing, use the tentative offer letter route:\nLog in to samagama.in and open your profile.\nUpload a brief self-declaration (a short statement that you\nintend to start your internship and will submit your signed NOC once approved).\nA tentative offer letter on Vicharanashala letterhead is\nissued to your dashboard immediately.\nHand the tentative offer letter to your HOD/college official — it\nserves as the written confirmation they need to sign your NOC.\nOnce your HOD/college official signs the NOC and you upload it back to samagama.in, the formal offer letter is issued automatically (see §4.3 and §3.9).",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "3.12",
+    "categoryId": 3,
+    "categoryName": "NOC (No Objection Certificate)",
+    "question": "Can Prof. Sudarshan Iyengar or a faculty member from IIT Ropar sign my NOC for the internship?",
+    "answer": "Your NOC must be signed by an authorised signatory at the institution where you are enrolled as a student — such as your HOD, Dean, Principal, or Training & Placement Officer. Sudarshan Iyengar is a faculty member at IIT Ropar and is not the authorised signatory for the IIT Ropar/Masai online AIML programme. He cannot sign your NOC in a personal capacity. Regarding eligibility: the internship is open to candidates currently enrolled in a UG/PG/Diploma programme at a recognised college or university. An online-only certification course (even if offered jointly with an IIT) does not meet that requirement on its own. If you are concurrently enrolled in a full-time degree programme elsewhere, please obtain the NOC from the authorised signatory at that institution. If your only current academic enrolment is the IIT Ropar/Masai online programme, you are not eligible for this internship cycle. Please clarify your current enrolment status and we will guide you accordingly.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.1",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "How do I know I am selected?",
+    "answer": "If you can see your yellow VINS result panel on samagama.in, you are selected. There is no separate selection step or confirmation email.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.2",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "How do I opt into VINS?",
+    "answer": "Tell Yaksha in the chat: \"I want to take up the online internship without stipend.\" Yaksha will confirm. Opting in is the selection — no separate confirmation email is sent at that stage.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.3",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "When do I get the offer letter?",
+    "answer": "There are two paths to your offer letter:\nPath 1 — Formal offer letter (default). Issued once both of these are in place:\nYour signed NOC has been verified by us (typically anywhere\nbetween an hour and one full working day after upload).\nYou have confirmed your internship start and end dates on the\ndashboard (see §4.5 below).\nOnce both are done, the formal offer letter is issued automatically — usually within an hour of the second step completing.\nPath 2 — Tentative offer letter (faster). If you are planning to start in the coming days and cannot wait for NOC verification, upload a self-declaration on your profile instead. A tentative offer letter will be issued to you immediately, and the formal offer letter follows once your NOC clears verification.\nEither letter is on Vicharanashala letterhead and serves as your official document for college / employer records.\nThe offer letter lives on your dashboard at samagama.in, not in your email. When it is issued you will receive a notification email from no-reply@vicharanashala.ai with the subject \"Your Vicharanashala Offer Letter is ready — please log in to download.\" That email is only a notification; the actual letter is downloaded from the Offer Letter card on your dashboard. If you do not see the notification email, check your spam / promotions folder — but in any case the primary path is to log in to samagama.in and click Download Offer Letter.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.4",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "Will I get a certificate?",
+    "answer": "Yes — every intern who completes the internship gets a certificate from Vicharanashala, IIT Ropar. The internship is genuinely demanding; candidates who drop out mid-way do not get a certificate. Finishing means something, because the bar is high.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.5",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "How do I confirm my internship dates?",
+    "answer": "Once you have opted into VINS in the chat with Yaksha (see §4.2), log in to samagama.in. On the dashboard, you will see a yellow card titled \"🗓️ Confirm your internship dates\". The two date pickers pre-fill with sensible defaults for the current cohort. If those work for you, hit \"Save dates\". Otherwise edit them to your earliest realistic start — your end must be on or before 31 December 2026.\nA green confirmation appears once saved. You can edit any time from the same card.\nOrder doesn't matter. You can save your dates before or after uploading your NOC — both paths work.\nThe dates you enter must match the internship period your HOD signs off on in your NOC. If you need to change the period later, edit the dates on the same card and upload a fresh NOC matching the new period.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.6",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "I am a minor/major in AI student, can I join the programme? I don't need a NOC as I am from IIT Ropar",
+    "answer": "Minor/Major in AI course from IIT Ropar is a certification course and there will be a different track of internship equivalent to them. Kindly write to us separately for this. For you to be part of this internship programme you should be a registered student in a UG/PG programme with some university. This internship is exclusively meant for the students only and not for working professionals.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.7",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "How do I accept the offer letter?",
+    "answer": "Once your formal offer letter arrives, accepting it has a precise form. Please follow it carefully — the form itself is the first attention-to-detail check of the internship.\nReply to the offer-letter email you received from no-reply@vicharanashala.ai. In the body, paste the following acceptance statement exactly as printed, with your full name inserted and a date added:\n> I, [Full Name], confirm that I have read, understood, and accepted > all terms, conditions, and obligations set out in this offer letter > and in the program FAQ at samagama.in. I formally accept the offer > of Summer Internship 2026.\nCopy-paste this sentence as-is. Do not paraphrase, do not shorten, do not rearrange the words. The reply must reach us within 5 days of the offer letter being sent.\nAlternative form — instead of typing the statement, you may download the offer letter PDF, fill in your name and the date in the acceptance block, sign and scan as a PDF, and attach that signed file to your reply. An attached signed acceptance counts as a valid reply.\nA few clarifying points (because we've been asked):\nSignature placement on the PDF. If the PDF shows only a \"Date\"\nfield, write your signature next to the date field or directly below the last line of the acceptance text. Either is acceptable.\nReply or Reply All? Reply All. The offer-letter email already\nhas sudarshan@iitrpr.ac.in on it; keep that address on your reply.\nDo not change the recipient fields. Reply on the same email\nthread; do not remove or alter any address that was already there.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.8",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "What if I reply without using the exact acceptance format printed in the letter?",
+    "answer": "The offer is withdrawn, effective immediately, with no further correspondence. The withdrawal is final.\nThis is a deliberate policy. The acceptance statement is the first attention-to-detail check of the internship — every commit, every report, every patch you write during the internship is expected to match a stated specification. A candidate who cannot follow a written specification at the acceptance stage is not ready for the work that follows.\nWhat counts as non-compliant:\nParaphrasing the statement (\"I happily accept\", \"I gladly confirm\",\netc.).\nSending only a bare \"I accept\" or \"Yes, accepted\".\nMissing the date.\nMissing the FAQ-reference clause.\nAn attached photo or scan of an unfilled or undated offer letter.\nWhat does not count as non-compliant (one-word leniency):\nSingle-word slips (\"the offer letter\" vs. \"this offer letter\";\n\"terms and conditions\" vs. \"terms, conditions, and obligations\").\nObvious typing mistakes in an otherwise complete attestation.\nIf you received a withdrawal email and believe it was a genuine error, see the next entry for the appeal route.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.9",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "I received a withdrawal email because I didn't accept the offer letter correctly. Can it be reversed?",
+    "answer": "There is an appeal path, with conditions.\nThe withdrawal stands by default. Please do not reply to the withdrawal email itself — replies to that thread are not read. To appeal, send a fresh email to:\nsudarshansudarshan@gmail.com\nThe subject line must be exactly:\n> Request to Reconsider: Confirmation Reply Error\nCopy and paste this subject line as-is. Our AI engine routes appeals by matching this exact title — any typo, extra word, missing colon, or change in capitalisation/punctuation will cause the appeal to be missed entirely.\nIn the body of the email, state an apology for the mistake and the reason. If the reason is genuine, we will respond within 24 hours.\nAn appeal that is granted does not restore the offer on the standard track — it places you on a separate track with an additional assignment: a short course on attention to detail, which you must complete and clear before the internship can proceed.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.10",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "What happens after I send my acceptance? My dashboard doesn't update.",
+    "answer": "The dashboard tracks your NOC, your internship dates, and your offer letter — it does not track the acceptance email. After you send your acceptance reply, you will not see a new green tick or status change on the dashboard. This is normal and expected.\nWe process acceptance emails manually. If your reply was compliant with the format described in §4.7, no further action is needed from your side; you are accepted, and the internship will proceed on the agreed dates. If your reply was non-compliant, you will receive a withdrawal email — see §4.9 for the appeal route.\nIf several working days pass and you have heard nothing, log in to samagama.in and type #escalate in the Yaksha chat — we will check the state of your reply.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.11",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "How do I change my internship dates before the offer letter is issued?",
+    "answer": "Until your formal offer letter has been generated, you can change your start and end dates yourself from the dashboard at any time — open the Confirm Internship Dates card under My Journey and edit the dates. Your end date must still be on or before 31 December 2026.\nThis self-edit path is available only until the offer letter is generated. Once the offer letter has been sent to your registered email, the dates are locked on the dashboard and the dashboard edit no longer works. To change them after that point — see §4.16.\nIf you also need a re-issued NOC from your college reflecting the new dates, upload the updated NOC via the dashboard.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.12",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "When and how do I get the Zoom link for the kickoff meeting?",
+    "answer": "The kickoff orientation is held for the main summer cohort only — i.e., candidates starting at the opening of the May–July window. The Zoom link is delivered through two channels:\nEmail to your registered samagama.in address.\nYour Yaksha chat portal — log in to samagama.in, open the\nchat, and the link is shown there.\nIf your start date is later (mid-summer or beyond), there is no separate kickoff event for you. See §2.1 for the trade-offs that come with a later start.\nIf you cannot register with the Zoom link or have not received it, log in to samagama.in and type #escalate in the chat with Yaksha — we will look at your specific case.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.13",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "How to proceed if NOC is not available and my chosen internship start date is approaching? I did not recieve a selection confirmation letter too.",
+    "answer": "If your start date is approaching, do not wait for the selection confirmation letter. Use the self-declaration form to obtain your provisional offer letter. You have a 15-day window to submit the proper NOC and get an actual offer letter. Failure to submit the NOC within this window may affect your internship.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.14",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "When does my internship actually begin? Will I receive a notification on the day?",
+    "answer": "Your internship begins on the start date you confirmed on the dashboard — the same date printed on your offer letter. There is no separate \"your internship has begun\" email, chat message, or dashboard notification on the day itself; the start date is the start date.\nOn the morning of your start date, log in to samagama.in. Yaksha will guide you through the Day-1 steps of the Bronze phase. If your dashboard appears unchanged on that morning, do a hard refresh and re-login. If it still looks the same, type #escalate in the chat and we will look at your specific case.\nYou can review or change your confirmed dates via the Confirm Internship Dates card on your dashboard (see §4.5 to set, §4.11 to change before the offer letter is issued, §4.16 to change after the offer letter is issued).",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.15",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "Can I switch from VINS (online) to VISE (offline) after being selected?",
+    "answer": "The two tracks are finalised at the interview stage, and we do not move candidates between them. VISE has a fixed on-campus capacity planned around mentor bandwidth, hostel availability, and stipend allocation — once the shortlist is set, it stays set. VINS is not a consolation track. The project, the mentor, and the certificate are the same as VISE — what differs is the mode (online) and the absence of a fellowship. Many interns find the online format more effective. Your best path forward is to confirm your VINS start dates and get your NOC uploaded — you're already in a strong position.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "4.16",
+    "categoryId": 4,
+    "categoryName": "Selection, offer letter, and certificate",
+    "question": "Can I change my internship dates after the offer letter has been issued?",
+    "answer": "Yes — you can change your start and end dates even after the formal offer letter has gone out. The dashboard self-edit path (see §4.11) is no longer available at this stage, but a change is still possible through the route below.\nOnce the offer letter is generated, the Confirm Internship Dates card is locked on your dashboard. This is intentional: the dates were formally committed against the institutional approval recorded on your NOC, so revising them needs the same institutional authority to re-approve.\nHow to request the change:\nThe official from your institution who signed your NOC must send an email:\nTo: harshdeep.r@vicharanashala.ai\nCC: sudarshan@iitrpr.ac.in\nSubject: Date change request — Your Full Name — Vicharanashala Summership 2026\nBody: the reason for the date change, plus the new proposed start and end dates.\nOnce we receive that email, we will unlock the Confirm Internship Dates card on your dashboard so you can re-save the new dates, and we will re-issue the formal offer letter with the corrected period. The earlier letter (with the old dates) ceases to be valid the moment the new one is issued.\nImportant: requests sent directly by the student cannot be processed at this stage. The email must come from your NOC signing authority. This is a deliberate guardrail, not a refusal — your internship period was committed jointly with your institution, and revising it needs the same joint approval.\nIf you also need a re-issued NOC from your college reflecting the new dates, upload the updated NOC via the dashboard once the new dates are saved.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "5.1",
+    "categoryId": 5,
+    "categoryName": "Work, mentorship, and projects",
+    "question": "What will I work on?",
+    "answer": "A real open-source project from Vicharanashala's portfolio — assigned based on your background and the lab's current needs. Areas range across AI/ML, web development, NLP, computer vision, agriculture-tech (Annam.AI), education-tech (ViBe), and open-source infrastructure. We do not pre-publish the exact problem; you choose to join knowing the lab will assign the project.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "5.2",
+    "categoryId": 5,
+    "categoryName": "Work, mentorship, and projects",
+    "question": "How many hours per day?",
+    "answer": "Plan for 6 to 10 hours a day, sometimes more during the build phase. This is a full-time internship for the two-month window. Most candidates who drop out are juggling something else — VINS expects your full attention.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "5.3",
+    "categoryId": 5,
+    "categoryName": "Work, mentorship, and projects",
+    "question": "Who is my mentor?",
+    "answer": "You will work with the lab's research and engineering team. The exact mentor depends on the project. The model is fluid — you will get help from a senior researcher one day, a peer the next, and someone else for a different question. That is how real open-source work happens.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "5.4",
+    "categoryId": 5,
+    "categoryName": "Work, mentorship, and projects",
+    "question": "Is there a stipend?",
+    "answer": "No. The internship is unpaid. Stellar performers may be recognised with a discretionary stipend at the lab's option, but this is not promised or expected.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "5.5",
+    "categoryId": 5,
+    "categoryName": "Work, mentorship, and projects",
+    "question": "Do I need my own laptop? Should I preload any software?",
+    "answer": "Yes — a personal laptop is required. We prefer that you bring a laptop running Linux or macOS. If you use Windows, please install a terminal that can SSH and run Unix-style commands — for example, Windows Subsystem for Linux (WSL) is a clean choice; a tool such as PuTTY also works. You will be SSH-ing into machines and using the command line as part of the work.\nWe do not maintain a fixed software-preload list — your mentor will guide you on the specific tools needed once your project is assigned.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "5.6",
+    "categoryId": 5,
+    "categoryName": "Work, mentorship, and projects",
+    "question": "I am using a different email on GitHub / Zoom / the learning platform. Is that okay?",
+    "answer": "No. Your registered email is your sole identifier across all programme platforms. Progress tracking, mentor assignment, and certificate issuance are all tied to it. Mismatches between platforms cannot be retroactively corrected — ensure you use your registered email everywhere from day one.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "5.7",
+    "categoryId": 5,
+    "categoryName": "Work, mentorship, and projects",
+    "question": "Why has my mentor not been assigned yet, or contacted me on day 1?",
+    "answer": "Mentors are not assigned on day 1 of the internship. You will be assigned a mentor when you move on to the project phase of VINS, which comes later in the timeline. Before that, you must complete the mandatory coursework of the Bronze phase (see §1.3). Once coursework is complete and you are placed on a project, your mentor will reach out.\nIf you are looking for a Discord server, please note: we do not run a Discord server. Communication is through Yaksha chat on samagama.in and email from no-reply@vicharanashala.ai only. See §6.1.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "6.1",
+    "categoryId": 6,
+    "categoryName": "Code of conduct — communication channels",
+    "question": "Are unofficial WhatsApp groups, Telegram channels, or peer-run groups allowed?",
+    "answer": "No — unofficial channels of any kind are strictly not allowed.\nAll communication with Vicharanashala about this internship must flow through the official channels only:\nYaksha chat on samagama.in (start a message with #escalate\nto reach a human). This is the primary channel for any question.\nEmail: we send notifications FROM no-reply@vicharanashala.ai.\nNote this is an outbound-only address — replies are not read. If you ever need to write to the team directly (only when Yaksha is genuinely unable to help), email sudarshansudarshan@gmail.com.\nThe moderated WhatsApp troubleshooting group, which we invite\nyou to after your offer letter is issued. We do not run any other WhatsApp group.\nCreating, joining, or operating an unofficial group — a parallel WhatsApp group, a Telegram channel, a Discord server, or any other peer-coordinated space that purports to act on behalf of, communicate to, or represent Vicharanashala / Samagama / the internship cohort — is strictly prohibited. This holds whether or not the group's name, description, or its admins' stated affiliation includes \"Vicharanashala\", \"Samagama\", \"Yaksha\", \"Internship\", \"IIT Ropar\", or any of our branding.\nCandidates found to be running or actively participating in such an unofficial channel will face serious consequences, which may include — but are not limited to — withdrawal of the offer letter, removal from the internship, blacklisting from future Vicharanashala programmes, and, where appropriate, a formal communication to your college or placement office.\nThe simple rule: if we did not invite you to it through samagama.in or our official email, it is not official. When in doubt, raise an #escalate in chat to confirm — we will tell you.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "7.1",
+    "categoryId": 7,
+    "categoryName": "Interviews Related",
+    "question": "My interview is not marked as complete on the dashboard — what do I do?",
+    "answer": "A data-sync issue sometimes occurs where the chat session closes but the interview record doesn't update to \"completed.\" The team will check your record and manually mark it as complete if needed. You will be unblocked within 1–2 hours. Apologies for the inconvenience. If you dont hear from us and if your interview continues to be marked incomplete please write to us on sudarshansudarshan@gmail.com",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "8.1",
+    "categoryId": 8,
+    "categoryName": "Certificate",
+    "question": "Does Vicharanashala send a grade report or evaluation to my university for internship credit?",
+    "answer": "Vicharanashala does not send formal evaluation or grade reports to universities — that process is between you and your college. The certificate issued upon completion is the document you can submit to your college or placement office for credit. Whether your college accepts it and how they translate it into a grade is their decision. If your college specifically requires a structured evaluation form or a report on your performance, raise that with them directly — we can provide the certificate and, if earned, a letter of recommendation, but we don't have a process for sending grade reports to universities.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "8.2",
+    "categoryId": 8,
+    "categoryName": "Certificate",
+    "question": "Does the Vicharanashala internship certificate specify whether it was completed online or offline ?",
+    "answer": "The certificate you receive on completing the internship is the same for both tracks. It is issued by Vicharanashala, IIT Ropar, and does not specify whether you completed it online or on campus. The certificate records only that you completed the internship; the mode is not called out separately on the document.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "8.3",
+    "categoryId": 8,
+    "categoryName": "Certificate",
+    "question": "Will the completion certificate be a physical hardcopy or an e-certificate?",
+    "answer": "The completion certificate is issued as an e-certificate — you download it from your dashboard on samagama.in after completing both Bronze and Silver. We do not print and mail physical copies. The certificate is digitally signed and authentic, so it cannot be duplicated. It can also be verified from our database using the number on the certificate.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "8.4",
+    "categoryId": 8,
+    "categoryName": "Certificate",
+    "question": "Is there a WhatsApp group for candidates during the internship?",
+    "answer": "There is no WhatsApp group for this internship. All communication happens through official channels that has been communicated to you already or will be communicated to you through email notifications. We use whatsapp for intermittent issue handling and delete them after the task. Not being on whatsapp should not make you miss anything. Do not worry.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.1",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "What is Rosetta?",
+    "answer": "Rosetta is your internship journal — a 65-day document, one entry per day, every day, for the full duration of Summership 2026. You write in it daily, keep it privately, and submit it at the end of the internship as one of your completion requirements.\nThe name comes from the Rosetta Stone — discovered in 1799, it carried the same text in three scripts and became the key to decoding an ancient language that had been silent for centuries. Not because it was grand, but because it was honest and consistent. That is what this journal is meant to be for you. Sixty-five days of honest writing will become the key to understanding your own experience — what you learned, where you struggled, what shifted in you.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.2",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "Why does this exist? Is it just busywork?",
+    "answer": "No. It exists for two reasons.\nFor you: Most people go through an intense experience and carry it without processing it. They finish and cannot articulate what they actually learned, what changed in them, or what they would do differently. The journal builds that articulation, one day at a time. Students who reflect regularly during a programme consistently get more out of it than those who do not — not because they work harder, but because they understand what they are doing and why.\nFor us: When you submit Rosetta at the end, it gives us qualitative insight into your experience that no survey or evaluation can capture. We use it to understand what worked, what did not, and how to make the programme better for the next cohort. Your honest voice matters to that process.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.3",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "What is a \"thinking routine\"?",
+    "answer": "Each day in Rosetta has a thinking routine — a short framework that gives your reflection a specific shape. Instead of staring at a blank page and writing \"today was good,\" the routine gives you a specific lens. Examples:\n3-2-1 — 3 things you engaged with, 2 questions on your mind, 1 surprise.\nMuddy / Clear — what is sharp, and what is still foggy.\nWhat? So What? Now What? — separate facts from meaning from action.\nThe routines rotate across the 65 days so the journal does not feel repetitive or mechanical. Some will feel easy. Some will make you stop and actually think. That is the point.\nYou do not need to research the routine or prepare for it. Just read the description at the top of each day's entry and write.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.4",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "How do I get my Rosetta journal?",
+    "answer": "Your journal will be shared with you as a Google Doc template link during orientation. Open the link, make a copy to your own Google Drive, rename it Rosetta — [Your Name] — Summership 2026, and that copy is yours for the full 65 days.\nDo not write in the shared template. Always work in your own copy.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.5",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "How do I use it day to day?",
+    "answer": "Simple:\nOpen your Rosetta Google Doc.\nScroll to the entry for today's day number.\nFill in the date at the top of the entry.\nRead the thinking routine name and its one-line description.\nAnswer the three prompts in the writing boxes below.\nClose it and get on with your day.\nThat is it. It should take between 10 and 20 minutes. It is not an essay. It is not a report. It is a journal.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.6",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "How long should each entry be?",
+    "answer": "There is no minimum or maximum word count. A good entry is one that is honest and specific. Three to five sentences per prompt is usually enough. If you find yourself writing more because something genuinely needs unpacking, write more. If a day was quiet and you genuinely only have two sentences, that is fine too.\nWhat is not acceptable: one-word answers, copy-pasted text, vague non-answers like \"today was productive,\" or anything that reads like it was generated by an AI.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.7",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "What is the one rule?",
+    "answer": "Write what is true.\nNot what sounds impressive. Not what you think we want to read. Not a polished summary of the day. If you hated today, write that. If you are confused and frustrated, write that. If something clicked and you are genuinely excited, write that.\nWe will know immediately if an entry reads like an LLM wrote it. Do not do that. The journal only counts as a completion requirement if it is genuinely yours — in your voice, from your actual experience.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.8",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "Can I use ChatGPT or any AI tool to write my entries?",
+    "answer": "No. This is the one firm rule of Rosetta.\nThe journal is a record of your thinking, not a demonstration of what an AI can produce on your behalf. Entries that read as AI-generated will not be counted toward your completion requirement. If your entire journal reads this way, the journal will not be accepted.\nUse AI tools for your technical work if that is permitted in the programme. Do not use them here.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.9",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "What if I miss a day?",
+    "answer": "Fill it in as soon as you can. Write the actual date you are filling it in, not the date of the missed entry. Be honest in the entry about the fact that you are writing it late and why.\nDo not leave entries blank. A late honest entry is always better than no entry.\nIf you find yourself consistently missing entries, that is worth paying attention to. It usually means something else is going wrong. Use Yaksha in chat, or reach out to your scholar.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.10",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "Will anyone read my journal during the internship?",
+    "answer": "No. We will not access your journal during the 65 days. You write it, you keep it, it is yours.\nThe only time we read it is after you submit it at the end of the internship. This is intentional — we want you to write freely, without feeling observed. The journal is only useful if it is honest, and it is only honest if you are not performing for an audience.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.11",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "Can the prompts change mid-internship?",
+    "answer": "Occasionally we may update a prompt for a specific day based on what is happening in the cohort — a major milestone, a collective challenge, or something the team wants to address directly. When this happens, we will announce it through the programme communication channel before that day begins.\nCheck the announcement channel before filling any entry where a change has been announced. If no announcement has been made, use the prompt as written in your document.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.12",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "How do I submit Rosetta at the end?",
+    "answer": "On or before Day 65, share your Rosetta Google Doc with the programme coordinator's email address (shared during wrap-up week). Set the sharing permission to Viewer.\nMake sure:\nYour name is in the document title — Rosetta — [Your Name] — Summership 2026.\nAll 65 entries have been filled in.\nYour cover page has your name, product, and team filled in.\nRosetta submission is one of the required criteria for receiving your internship certificate. An incomplete or AI-generated journal will not be accepted.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.13",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "I have a question about Rosetta that is not answered here. What do I do?",
+    "answer": "Ask Yaksha first. If Yaksha cannot answer it, escalate to your programme coordinator. Do not sit on a question — the journal works best when you start it right.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "9.14",
+    "categoryId": 9,
+    "categoryName": "Rosetta — your internship journal",
+    "question": "My college requires a written confirmation that the internship is self-paced and will not clash with college classes — what document can I share with them?",
+    "answer": "This is not a self paced internship, but a very rigorous one which is time demanding. It is not permitted for one to be part of any other activity during this period.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "10.1",
+    "categoryId": 10,
+    "categoryName": "Phase 1 — coursework, Vibe LMS, and live sessions",
+    "question": "I've previously interned with VLED — am I exempt from any coursework?",
+    "answer": "Yes — partially. If you previously interned with VLED and completed the MERN Stack coursework, you don't need to repeat it this cycle.\nHowever, the AI Fundamentals course (Fundamentals of AI using an Agriculture dataset) is a new addition this cycle and is mandatory for everyone, including returning interns. You'll need to complete it along with its associated activities.\nTo claim this exemption, simply type the hashtag #exemption from mern stack course in your Yaksha chat on Samagama. Yaksha will record your request.\n> The broader #exemption from coursework (viva-route) option is not available to returning interns — it exists only for first-time interns who are already well-versed in both stacks. Since AI Fundamentals is new content, returning interns must complete it.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "10.2",
+    "categoryId": 10,
+    "categoryName": "Phase 1 — coursework, Vibe LMS, and live sessions",
+    "question": "How do I register for the AI Fundamentals course on Vibe?",
+    "answer": "Follow these steps:\nClick the AI Fundamentals registration link sent in the Phase 1 launch email.\nYou'll be redirected to the Vibe sign-in page. If you don't have a Vibe account yet, create one using the same Gmail you used to register on Samagama.\nLog in with your credentials.\nAfter logging in, open the course registration link again in your browser — the second click after login is what enrols you.\nComplete the brief registration form and submit.\nThe course will appear instantly on your Vibe dashboard, ready to watch.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "10.3",
+    "categoryId": 10,
+    "categoryName": "Phase 1 — coursework, Vibe LMS, and live sessions",
+    "question": "I registered on Vibe with a different email than my Samagama email — is that OK?",
+    "answer": "Please use the same email on both platforms so we can match your Phase 1 progress to your internship record.\nThe one exception: Vibe requires a Gmail address for signup. If the email you used on Samagama is not Gmail (e.g. a college email like @xyz.ac.in, @ds.study.iitm.ac.in), you may use any Gmail of yours to register on Vibe. In that case, tell Yaksha in your Samagama chat using the tag:\n`` #vibe-email your-gmail@gmail.com ``\nso we can link the records.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "10.4",
+    "categoryId": 10,
+    "categoryName": "Phase 1 — coursework, Vibe LMS, and live sessions",
+    "question": "Are live sessions mandatory if I'm on the viva route?",
+    "answer": "Yes — live sessions are mandatory for every intern, regardless of path. Whether you're on the coursework track, MERN-exempt (returning intern), or have cleared the viva and moved to Phase 2, you're expected to attend every live session. The exchange of knowledge across our cohort — diverse streams, varying levels of experience — is something self-paced study cannot replicate.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "10.5",
+    "categoryId": 10,
+    "categoryName": "Phase 1 — coursework, Vibe LMS, and live sessions",
+    "question": "Where do I find the daily live-session schedule?",
+    "answer": "We share each day's schedule through any one of these channels: Samagama dashboard, Yaksha chat, or email. Please keep an eye on all three — on a given day the schedule may go out via any one of them.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "11.1",
+    "categoryId": 11,
+    "categoryName": "Yaksha Chat Related",
+    "question": "I'm unable to type in the chat after clicking 'Interact with Yaksha' — what should I do?",
+    "answer": "After logging into your Yaksha portal, if the field shows that you can't type, scroll up to the top of your window and click on the 'Chat with Yaksha' button to activate Yaksha. This way you will be able to interact with Yaksha properly.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.1",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "How do I log in to ViBe?",
+    "answer": "Link for the website: https://vibe.vicharanashala.ai/auth\nSign up as a student with the registered mail ID into the ViBe platform.\nTo log in to the ViBe platform, follow the steps below carefully:\n```\nLog in to the ViBe platform as a student from registered email ID\nCheck the \"Notifications\" tab in the Top right side of the Dashboard.\nAccept the course invite sent for your respective MERN Course.\n```\n⚠️ Logging in with a different email ID may result in access issues or missing course visibility.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.2",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Invite accepted but shows \"No course enrolled\"?",
+    "answer": "If you see \"No course enrolled\":\nMake sure you are logged in with the correct registered email ID.\nCheck if your college email has multiple aliases and try the correct one.\nLog out and log in again once.\nUse personal wifi instead of college wifi as there might be some network restrictions of access.\nIf the issue continues, please follow these steps:\nStep 1: Allow Third-Party Cookies\nEnable Cookies in Chrome: Open chrome://settings/cookies. Turn OFF \"Block third-party cookies\" and turn ON \"Allow all cookies.\"\nAdd Site Exception: Scroll to \"Sites that can always use cookies\" and click \"Add.\" Paste .vicharanashala.ai and ensure \"Including third-party cookies\"* is enabled.\nRestart browser.\nStep 2: Fix DNS (Most Important)\nChange your laptop DNS to Google DNS.\nGo to: Control Panel → Network → Active Network → Properties → IPv4.\nShortcut: Win + R → ncpa.cpl → right-click properties.\nSet Preferred DNS to 8.8.8.8 and Alternate DNS to 8.8.4.4.\nSave.\nStep 3: Flush Old DNS Cache (it's safe)\nOpen Command Prompt as Admin.\nRun the following commands:\nipconfig /flushdns\nipconfig /release\nipconfig /renew\nRestart WiFi.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.3",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Why are videos stuck or repeating?",
+    "answer": "This may happen due to ViBe's monitored learning system. Common reasons include:\nVideos must be watched fully and in sequence (no skipping).\nCamera and microphone permissions must be enabled.\nPoor lighting or high background noise can affect playback.\nSwitching tabs or staying idle may restart the video.\n✅ For smooth playback, stay on the ViBe tab, keep your camera on, and watch videos in a quiet, well-lit environment.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.4",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Can I use a mobile or tablet?",
+    "answer": "No, only desktop/laptop is supported.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.5",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "I'm experiencing video issues (stuck, looping, skipping) on ViBe. How do I troubleshoot?",
+    "answer": "Try these troubleshooting steps in order:\nRefresh the page and check multiple times\nInspect browser console: Right-click → Inspect → Go to Network or Console tab → Try watching the video and check for any visible errors\nLog out and log in again\nUse a different browser\nClear browsing data and cache, then try to re-login\nIf the issue persists after trying all steps, record the issue and contact Yaksha for any queries by mentioning #escalate-ViBe.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.6",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "I have completed all videos and quizzes in the ViBe course, but my progress is still showing less than 100%. What should I do?",
+    "answer": "Please do not worry. This might be a skip made in the quiz/video item due to penalty score as the quiz/video item might not have been successfully completed/marked. Please verify that you've completed all the course items (1006/1006). If not, please retry the missed contents again.\nIn the meantime, you may try the following steps once:\nRefresh your browser\nLog out, clear your browser cache, and log in again",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.7",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "I feel the ViBe content or platform is not good or I am unhappy with the way progress is evaluated. Can I request an exception or bypass the system?",
+    "answer": "ViBe is built and continuously improved by interns and students themselves. It is a free and open-source learning platform, and our goal is to keep it that way by encouraging the community to actively contribute, improve, and strengthen it rather than bypass it.\nIf a learner strongly feels that the regular ViBe flow does not fairly reflect their understanding, there is a formal alternative evaluation path. However, this path is intentionally rigorous to ensure fairness for everyone.\nIn such cases, you will be asked to:\nWatch the specified YouTube video content completely (links will be provided).\nAppear for a three-hour proctored examination based only on that content.\nWrite the exam under strict supervision with:\nTwo cameras (front and side view), and\nOne online human proctor monitoring you live.\nThis examination becomes the sole basis for evaluation in place of the regular internship track.\nThe scoring rules are strict:\nScore below 60%: You are considered not qualified and must join the next cohort and continue only through the normal ViBe mode.\nScore between 60% and 80%: You get one more chance in the next scheduled exam.\nScore above 80%: You are considered to have passed.\nThis special exam is conducted once every fortnight, so choosing this route may significantly delay your progress compared to continuing normally on ViBe.\nBecause this path is far more demanding and time-consuming than simply completing the regular videos, quizzes, and activities, most students find that continuing with the standard ViBe workflow is the faster and better option.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.8",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Is the ViBe consent form compulsory? What if I don't want to grant camera access?",
+    "answer": "Yes — the consent form is compulsory.\nWe would like to clearly inform you that providing consent is a mandatory requirement for any candidate enrolling in and continuing a course on the ViBe Learning Platform.\nThe platform is designed with proctoring enabled throughout the learning process, which requires access to your webcam and microphone. This is essential to ensure:\nFairness across all participants\nAcademic integrity\nActive and genuine participation\nIf you choose not to grant camera and microphone access, you will not be able to proceed with the course, as proctoring is an integral part of the learning and evaluation workflow.\nPrivacy & Monitoring Clarification\nAs outlined in the consent form:\nViBe does not continuously record videos.\nProctoring operates via real-time monitoring mechanisms during learning and assessments.\nAll data is handled strictly in accordance with the stated consent terms and applicable data-protection guidelines.\nIn short, consent is not optional — it is a core requirement for participation on the platform.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.9",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "What are penalty scores on the ViBe platform, and how do they affect our performance or HP?",
+    "answer": "Penalty scores are generated when anomalies are detected during your activity on the ViBe platform (for example, irregular behavior while watching video lessons or attempting quizzes).\nIf the penalty score becomes high, you may be required to:\nRewatch the video lesson, and\nRetake the associated quiz.\nAt present, these penalty scores do not impact your HP (Health Points) or overall performance evaluation, as they are not being considered for scoring. Their primary purpose is to ensure proper engagement with the learning content.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.10",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "When should I use the Flag option on ViBe, and when should I contact support?",
+    "answer": "Use the Flag feature on ViBe only for course content-related issues, such as problems with video content or quiz questions.\nFor technical issues, platform errors, login problems, or logistics-related queries, do not use the flag option. Instead, contact Yaksha so the team can assist you faster.\nUsing the correct method helps resolve issues quickly and keeps the learning process smooth for everyone.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.11",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "What is Linear Progression on ViBe?",
+    "answer": "Linear progression is enabled for every course on ViBe. This means each learner must watch the videos and attempt the quizzes in the exact order they appear on the left panel of the course page.\nIn practice:\nYou cannot click on a video or quiz that lies far ahead of your current position.\nYou must complete each item before the next one unlocks.\nSkipping videos or quizzes is not allowed by design.\nProgress is sequential — finish the item in front of you, and the next one opens up automatically.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.12",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Can I use the left navigation panel to jump ahead to a later video or quiz?",
+    "answer": "No. Although the left navigation panel displays the full list of items in your course, it is meant only as a progress map — not as a jump-to-anywhere menu.\nInstead of clicking through the left panel:\nClick Next Quiz or Next Lesson as it appears on the right panel.\nLet the platform unlock items for you in sequence as you complete each one.\nTrying to skip ahead through the left panel will simply trigger the Access Restricted alert (see 12.13).",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.13",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "I am seeing a red \"Access Restricted\" banner. Is this a bug?",
+    "answer": "No, this is not a bug. The red Access Restricted banner is an intentional alert from the platform.\nThe banner looks like this: a red toast notification with an exclamation icon, the title \"Access Restricted\", and the message \"Returning to previous valid content.\" below it.\nIt appears when you try to open an item (video or quiz) before completing all the items that come before it. If you are on the nth item but haven't completed every video and quiz from item 1 through item n−1, the platform will show this alert.\nWhen the banner appears, ViBe automatically returns you to the previous valid content — that is, the last item you had legitimately reached in the sequence. You will not lose any progress; you'll simply be sent back to where you actually are in the course.\nIt is the system gently telling you: \"Please check — there is something earlier in the course that you haven't finished yet.\"",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.14",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "How do I resolve the \"Access Restricted\" error?",
+    "answer": "Follow these steps in order:\nGo back to the left panel and scroll through your course items from the beginning.\nLook for any item without a completion tick — that is your missed video or quiz.\nComplete that item (watch the full video, or attempt and submit the quiz).\nRefresh the page once you've completed all earlier items.\nIf the Access Restricted banner still appears after refreshing and you are sure all earlier items are completed, report the issue to Yaksha by mentioning #escalate-ViBe.\nIn the large majority of cases, simply finding and completing the missed item clears the alert.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.15",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Why does ViBe sometimes make me re-watch a clip after a quiz?",
+    "answer": "If your answer to the check-in quiz didn't go through correctly, ViBe will take you back to the same clip and let you try again. This is called a re-watch, and it is part of the design — not a penalty.\nA few things to keep in mind:\nRe-watches are not recorded against you. They do not affect your HP or evaluation.\nThe clips are short, so a re-watch usually costs less time than guessing through multiple retries.\nThink of the re-watch as the platform helping the idea actually stick before you move on, rather than scolding you for getting it wrong.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.16",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "What kinds of quiz questions will I see on ViBe?",
+    "answer": "ViBe quizzes come in four formats:\nFormat\tWhat it looks like\tWhat to do\nPick one (MCQ)\tOne right answer out of four or so options\tRead all the options before clicking\nPick one or more (MSQ)\t\"Select all that apply\" — could be one correct option or several\tRead each option carefully; small mistakes happen here most\nType a number (NAT)\tA text box asking for a numeric value\tType just the number — no units or extra symbols, unless the question explicitly asks\nTrue or False\tA statement with only two options — True or False\tRead the statement carefully; a single word like \"always,\" \"never,\" or \"only\" can flip the correct answer\nA small tip: watch the clip first, then answer. Trying to read the question while the clip is still playing splits your attention.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.17",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Are the same proctoring rules applied to every course on ViBe?",
+    "answer": "No — and this is one of the most important things to understand before reading the rest of this section.\nViBe's proctoring system is modular. Each individual check — face visibility, single-face-in-frame, lighting, background voices, gaze on screen, camera/microphone access — can be independently switched on or off by the instructor for a given course or cohort.\nThis means:\nThe instructor decides which proctoring elements are active for their course.\nSome courses may run with all checks active (typical for internships, faculty FDPs, and credentialed programmes).\nOther courses may run with only a subset active — for example, face visibility on but background-voice detection off — depending on the learning context.\nCertain pilot or open courses may have most proctoring relaxed, especially where the focus is exploration rather than verified evaluation.\nThe FAQs that follow (12.18 through 12.23) describe the full set of proctoring behaviours the platform is capable of. They are written as if everything is switched on. **Whether a specific check applies to your course depends entirely on what your instructor has enabled for that course.**\n⚠️ Please do not assume rules carry across courses. A relaxation given in one course (for example, allowing two faces in frame for a paired-learning module) does not transfer to another course on the same platform. Always check the course-specific guidelines shared by your instructor or programme team before each course you join.\nWhen in doubt, ask your instructor or programme coordinator which proctoring elements are active for your current course.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.18",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "What does the \"quiet helper\" on ViBe actually do?",
+    "answer": "While a lesson plays, a small helper runs gently on your device using your camera and microphone. It checks, in real time, that the basic conditions for learning are present.\nSpecifically, it looks at five things:\nA face is visible — to confirm you are really there.\nOnly one face is in frame — to confirm the learning is yours.\nThere is enough light on your face — a silhouette is hard to recognise.\nThe room isn't full of voices — no talking, TV, or background podcasts.\nYou are looking at the screen — brief glances away are fine; long stretches feel like drifting off.\nThe helper is not a judge. Brief, normal movements (a stretch, a sneeze, a glance at your notebook) are absolutely fine. It only pays attention to sustained patterns, not split-second things.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.19",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Does ViBe record long videos of me while I'm learning?",
+    "answer": "No. ViBe does not continuously record videos of you.\nThe camera and microphone are used for real-time presence checks only.\nLong recordings of your face or voice are not stored.\nWhen the lesson ends, the helper goes quiet too.\nAll data is handled strictly in accordance with the consent terms shown when you signed up.\nThink of the helper as a quiet study partner sitting beside you — there if needed, invisible otherwise.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.20",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "What is the single most common avoidable mistake learners make?",
+    "answer": "Sitting with a window directly behind you during the day.\nThe room may feel bright to you, but your camera only sees a dark silhouette where your face should be. The helper then struggles to confirm your presence, and your lesson may pause or rewind.\nThe fix is simple: move so the window is to your side or in front of the laptop, not behind you. A lamp placed in front of you works just as well in the evening.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.21",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Why does the lesson keep pausing or restarting even when I'm paying attention?",
+    "answer": "If a clip keeps stopping or going back to the start, the cause is almost always something small in your environment, not the platform itself. Run through this checklist:\nYour face is too dark → add a lamp in front of you.\nYour face is partly out of frame → raise the laptop or sit a bit closer to the camera.\nThere are voices in the background → close the door, or move to a quieter room.\nYou switched tabs or went idle → stay on the ViBe tab; take breaks between clips, not during them.\nCamera or mic permission dropped → check the lock icon in your browser's address bar and confirm both are set to \"Allow\".",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.22",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Can I read the quiz questions aloud or mutter to myself while watching?",
+    "answer": "It's best not to. The microphone listens for sustained voices in the room, and reading aloud, muttering, or asking a roommate \"wait, what was that?\" can all be picked up as anomalies.\nThe simple habit is: watch in silence, answer in silence, and chat freely during your breaks between clips.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.23",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Can I study with a friend on camera since we're learning together?",
+    "answer": "In most courses, no. Only you — the registered Learner — should be in the camera frame during a lesson. The helper checks that exactly one face is visible at a time.\nGroup study is genuinely a wonderful habit, just not inside a ViBe session itself. A good way to do it:\nHop on a separate call with your friend on your phone or a second device.\nDiscuss concepts before or after a ViBe lesson, not during it.\nReturn to ViBe alone when you're ready to watch the clip and attempt the quiz.\n> 📌 Note: As explained in 12.17, the single-face-in-frame check is an instructor-controlled setting. A few courses (typically paired-learning or collaborative pilots) may explicitly relax this rule. Do not assume that relaxation in one course applies to another — even on the same platform with the same login. Always default to studying alone unless your instructor has clearly stated otherwise for that specific course.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.24",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Will I lose my progress if I clear my browser or reinstall it?",
+    "answer": "No. Your progress is saved on the server, tied to your registered email — not on your browser or your computer.\nSo:\nRefreshing the page, clearing cache, switching browsers, or even reinstalling your browser will not wipe your progress.\nThe moment you log back in with the same registered email, all your completed clips and quizzes will be exactly where you left them.\nWhen in doubt: log out, log back in.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.25",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "Is there a recommended daily learning rhythm on ViBe?",
+    "answer": "Yes — small, regular sessions work far better than long marathon sessions. A practical rhythm:\nShow up daily, even if only for thirty minutes. Daily consistency beats a five-hour weekend cram.\nTake breaks between clips, not during them. A clip is short — finish it first.\nTreat each quiz as a gentle check-in, not a high-stakes test.\nFor programmes with deadlines (such as internships or faculty cohorts), aim for the daily progress target announced by your programme team — typically around 3.33% per day.\n> 📌 A note on milestones: The pacing above is a general guideline only. For any specific programme (Vinternship cohort, faculty FDP, NPTEL internship, institutional pilot, etc.), the actual milestones, deadlines, and weekly progress targets will be announced by your instructors or programme team. Always follow the milestone schedule communicated for your specific cohort — that takes precedence over the general guidance here.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "12.26",
+    "categoryId": 12,
+    "categoryName": "ViBe Platform",
+    "question": "What should my \"study corner\" look like before I start a ViBe session?",
+    "answer": "A ViBe-friendly study spot needs only three things:\nLight in front of your face — a lamp or window facing you, never behind.\nJust you in the camera frame — ask family, friends, or pets not to wander through.\nA reasonably quiet room — no TV, no music with words, no one else on a call nearby.\nTwo minutes of setup before you start saves a lot of small frustrations during the lesson.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.1",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "Is team formation compulsory?",
+    "answer": "Yes. All projects in Phase 2 and Phase 3 (some parts) must be completed in teams. Every participant is required to be part of a team.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.2",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "What is the size of a team?",
+    "answer": "The team size is fixed at four members. This is mandatory — you cannot have fewer or more members in a team at the time of final formation.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.3",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "How are teams formed?",
+    "answer": "For students who joined on May 15 and 16: Teams were formed through a structured activity.\nFor students joining later: Teams will be randomly assigned by the administration.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.4",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "I started on May 15/16 but couldn't form a team during the activity. What happens now?",
+    "answer": "You will be randomly assigned to a team.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.5",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "There was a typo in our email addresses during team formation. Can we fix it?",
+    "answer": "No action is required from your side. The administration will verify and match email IDs with names before finalizing and locking teams.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.6",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "I formed a team with only two members. Will it be considered?",
+    "answer": "No. Teams with fewer than four members will be expanded by adding additional members to make a final team of four.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.7",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "What if a team member leaves or becomes ineligible during Phase 1?",
+    "answer": "The administration will attempt to assign a replacement member.\nIf no replacement is found, you may continue as a team of three.\nYou must inform the admin immediately, or the change will not be recognized.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.8",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "Can I form a team with someone from my own college?",
+    "answer": "No. Teams must consist of members from different institutions to encourage networking. Exception: Students from the same institution but different campuses/locations may be allowed.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.9",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "Can I form a team with students from my IIT MBS cohort?",
+    "answer": "No. You are encouraged to collaborate with participants outside your existing cohort.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.10",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "Can we change our team name after submission?",
+    "answer": "Yes, team names are tentative and can be changed. However, due to operational constraints, frequent changes are discouraged.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.11",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "What if multiple teams choose the same name?",
+    "answer": "Teams will be distinguished using suffixes (e.g., Team X-1, Team X-2, etc.).",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.12",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "What should I do if I face issues within my team?",
+    "answer": "Report any concerns immediately to your assigned scholar/mentor. Maintaining a safe and respectful environment is a priority.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.13",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "How will I know who my mentor is?",
+    "answer": "Your mentor will be the scholar assigned to the project your team is working on.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.14",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "When will I know my team details?",
+    "answer": "Teams are announced in phases via email. Please regularly check your inbox for updates.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.15",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "I received a team list email but my name is not included. What should I do?",
+    "answer": "Team announcements are phased, so your name may appear in a later list.\nIf your entire cohort has moved to team activities and you are still unassigned, raise the issue on Yaksha or contact a scholar.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.16",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "We selected Project X as our top priority but were assigned Project Y. Can we change it?",
+    "answer": "No. Project assignments are final and cannot be changed. Allocation is done to ensure balanced distribution across projects.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.17",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "I just started the internship. Can I form my own team now?",
+    "answer": "No. For later cohorts, teams will be randomly assigned. Please wait for the official communication.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.18",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "When do team activities begin?",
+    "answer": "Team-based work begins in Phase 2. During Phase 1 (online coursework), you do not need to worry about team activities.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.19",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "Can I request a specific teammate after teams are assigned?",
+    "answer": "No. Team assignments are final and requests for changes are not entertained.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.20",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "What happens if a team member is inactive or not contributing?",
+    "answer": "You should report the issue to your mentor/scholar early. Prolonged inactivity may lead to administrative intervention.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.21",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "Can I switch teams if there are conflicts?",
+    "answer": "Team switches are not allowed except in exceptional, admin-approved cases involving serious concerns.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.22",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "Will team performance affect individual evaluation?",
+    "answer": "Yes. While some components may be individual, team deliverables are a key part of evaluation.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.23",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "How will communication happen within teams?",
+    "answer": "Teams are expected to self-organize internal team coordination (e.g., a small WhatsApp/email thread limited to the four teammates). Official programme updates will continue to come via email and Yaksha chat on samagama.in. Note: this in-team coordination is distinct from the unofficial cohort-wide channels prohibited under §6.1 — a four-person team thread for project work is fine; any group that purports to act on behalf of Vicharanashala or the wider cohort is not.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.24",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "What if I miss the team allocation email?",
+    "answer": "All communication is sent via registered email. You are responsible for checking regularly, including spam folders.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.25",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "Can a team be dissolved and reformed?",
+    "answer": "No. Once finalized, teams are locked and cannot be dissolved.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.26",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "What happens if I drop out of the internship?",
+    "answer": "Your team will be adjusted accordingly, and the remaining members may continue as a team of three or receive a replacement.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  },
+  {
+    "faqId": "13.27",
+    "categoryId": 13,
+    "categoryName": "Team Formation",
+    "question": "Will we get time to get to know our teammates before Phase 2?",
+    "answer": "Yes. There is typically a buffer period before Phase 2 where teams can connect and prepare.",
+    "version": "v21.0.0",
+    "lastUpdated": "2026-05-19T17:35:00+05:30"
+  }
+]
