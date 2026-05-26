@@ -1,4 +1,4 @@
-const { searchAll } = require('../services/searchService');
+const { searchAll, getDidYouMean } = require('../services/searchService');
 const { recordSearch, recordSearchSuccess } = require('../services/analyticsService');
 const { getRedis } = require('../config/redis');
 
@@ -24,6 +24,12 @@ exports.search = async (req, res, next) => {
       await recordSearchSuccess(q || '');
     }
 
+    // "Did you mean?" — only fires on zero results to avoid wasted work
+    let didYouMean = { correction: null, relatedFAQs: [] };
+    if (result.total === 0 && q && q.trim().length >= 2) {
+      didYouMean = await getDidYouMean(q);
+    }
+
     // Get search suggestions from cache
     let suggestions = [];
     try {
@@ -46,7 +52,7 @@ exports.search = async (req, res, next) => {
       } catch (_) {}
     }
 
-    res.json({ ...result, suggestions });
+    res.json({ ...result, suggestions, didYouMean });
   } catch (err) {
     next(err);
   }

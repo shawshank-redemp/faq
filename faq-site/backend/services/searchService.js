@@ -158,6 +158,83 @@ const searchAll = async ({ query, tags, type, page = 1, limit = 20 }) => {
   }
 };
 
+/**
+ * "Did you mean?" suggestions for zero-result searches.
+ *
+ * Strategy:
+ *   1. ES phrase suggester on the questions index — catches typos like
+ *      "stipned" → "stipend" using the actual indexed corpus.
+ *   2. Fuzzy FAQ title match from MongoDB — surfaces real FAQ pages
+ *      even when ES has no indexed data yet (e.g. fresh install).
+ *
+ * Returns:
+ *   {
+ *     correction: "stipend" | null,   // best spelling fix
+ *     relatedFAQs: [{ title, slug }]  // up to 4 relevant FAQ pages
+ *   }
+ */
+const getDidYouMean = async (query) => {
+  const result = { correction: null, relatedFAQs: [] };
+  if (!query || query.trim().length < 2) return result;
+
+  // 1. ES phrase suggester
+  try {
+    const es = getES();
+    const suggestRes = await es.search({
+      index: INDEX_QUESTIONS,
+      body: {
+        size: 0,
+        suggest: {
+          text: query,
+          phrase_suggest: {
+            phrase: {
+              field: 'title',
+              size: 1,
+              gram_size: 2,
+              direct_generator: [{
+                field: 'title',
+                suggest_mode: 'missing',
+                min_word_length: 3,
+              }],
+            },
+          },
+        },
+      },
+    });
+
+    const options = suggestRes.suggest?.phrase_suggest?.[0]?.options || [];
+    if (options.length > 0 && options[0].score > 0.001) {
+      const suggested = options[0].text.trim().toLowerCase();
+      if (suggested !== query.trim().toLowerCase()) {
+        result.correction = options[0].text;
+      }
+    }
+  } catch (_) {
+    // ES unavailable — skip phrase suggest, still do MongoDB fallback
+  }
+
+  // 2. MongoDB fuzzy FAQ fallback — regex on each word in the query
+  try {
+    const FAQ = require('../models/FAQ');
+    const words = query.trim().split(/\s+/).filter(w => w.length >= 3);
+    if (words.length > 0) {
+      const regexClauses = words.map(w => ({
+        title: { $regex: w, $options: 'i' },
+      }));
+      const faqs = await FAQ.find({
+        isPublished: true,
+        $or: regexClauses,
+      })
+        .select('title slug')
+        .limit(4)
+        .lean();
+      result.relatedFAQs = faqs.map(f => ({ title: f.title, slug: f.slug }));
+    }
+  } catch (_) {}
+
+  return result;
+};
+
 const deleteQuestionIndex = async (id) => {
   try {
     const es = getES();
@@ -177,6 +254,7 @@ module.exports = {
   indexQuestion,
   indexFAQ,
   searchAll,
+  getDidYouMean,
   deleteQuestionIndex,
   deleteFAQIndex,
 };
